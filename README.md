@@ -1,2 +1,6 @@
 # kotlin-coding-challenges
-Solving puzzles with your favorite language
+Solving coding puzzles with your favorite language!
+
+# More information on coding challenges
+[Competitive Programming by Roman Elizarov](https://kotlinlang.org/docs/tutorials/competitive-programming.html)
+[Competitive Programming on Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
